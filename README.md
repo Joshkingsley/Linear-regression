@@ -2,7 +2,7 @@
 AI-powered LPG analytics engine for precision consumption forecasting and atmospheric safety monitoring. Phase 1: Linear Predictive Foundations.
 
 
-# 🌌 GASAI | Intelligence in Every Breath
+# 🔥 GASAI | Intelligence in Every Breath
 
 > **An AI-Powered Ecosystem for Precision LPG Monitoring & Safety Analytics.**
 
