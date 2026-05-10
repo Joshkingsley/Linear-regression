@@ -67,7 +67,7 @@ The GASAI ecosystem consists of three proprietary layers:
 ### 🚀 About the Developer
 
 **Joshua Mwangi**
-*Statistics Major, JKUAT | Full-Stack Software Engineer | Quantitative Analyst*
+*Statistics Major, JKUAT | Full-Stack Software Engineer | Automation Engineer | Quantitative Analyst*
 
 Bridging the gap between raw physical signals and high-level predictive intelligence. GASAI is currently being prepared for showcase at the **Africa Forward Summit** as a prime example of Kenyan-led industrial innovation.
 
