@@ -75,6 +75,6 @@ Bridging the gap between raw physical signals and high-level predictive intellig
 
 ### 🔒 Intellectual Property Notice
 
-The hardware designs, internal schematics, and specific sensor configurations of the GASAI unit are **Proprietary and Confidential**. This repository focuses exclusively on the software and mathematical frameworks. For business inquiries or partnership opportunities, please contact the author directly.
+This repository focuses exclusively on the software and mathematical frameworks. For business inquiries or partnership opportunities, please contact the author directly.
 
 ---
