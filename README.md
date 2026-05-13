@@ -75,6 +75,6 @@ Bridging the gap between raw physical signals and high-level predictive intellig
 
 ### 🔒 Intellectual Property Notice
 
-This repository focuses exclusively on the software and mathematical frameworks. For business inquiries or partnership opportunities, please contact the author directly.
+This repository focuses exclusively on the software and mathematical frameworks. For business inquiries or partnership opportunities, please contact the author directly at kingsleymwangi05@gmail.com.
 
 ---
